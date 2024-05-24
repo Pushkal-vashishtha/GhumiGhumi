@@ -18,7 +18,7 @@ const Splash = ({navigation}) => {
       }}>
         <StatusBar hidden/>
       <Image style={{height:200 ,width:'auto',resizeMode:'contain'}}
-      source={{uri:'https://imgs.search.brave.com/5MRaVWeqYlYTNFdZs1x70j2jJFWPgsja0vJWqJ6od5Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMueW91cnN0b3J5/LmNvbS9jcy93b3Jk/cHJlc3MvMjAxOS8w/MS9yYXBpZG8tYmlr/ZS10YXhpLmpwZWc_/Zm09cG5nJmF1dG89/Zm9ybWF0Jnc9ODAw'}}></Image>
+      source={{uri:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tD7c5o_CPi8lJHvUXcLQQVZQTC69j_iwYs2pyk-TEQ&s'}}></Image>
     </View>
   );
 };
